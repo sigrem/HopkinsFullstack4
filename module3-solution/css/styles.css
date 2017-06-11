@@ -1,0 +1,53 @@
+#header-nav {
+  background-color: gray;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-header {
+  background-color: gray;
+  color: black;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand p {
+  color: black;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+  /*background-color: gray;*/
+}
+
+#collapsable-nav {
+  background-color: gray;
+  border-radius: 0;
+  border: 1px;
+}
+
+#collapsable-nav li {
+  background-color: white;
+  border-radius: 0;
+  border: 1px solid black;
+}
+
+#title {
+  font-size: 1.2em
+}
+#food-tile {
+  background-color: gray;
+  height: 1000px;
+  width: 100%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  position: relative;
+  border: 2px solid black;
+  overflow: hidden;
+}
+
+#food-tile div {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 1.2em;
+}
